@@ -1,0 +1,6 @@
+{
+  "name": "GOWRISH OS - Life Command",
+  "description": "A high-performance personal operating system and command center integrating academics, career prep, Toastmasters PR, creative studio, and wellness habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
